@@ -1,0 +1,3 @@
+<TextureAtlas imagePath="soundSystem.png">
+<SubTexture name="sound system0" x="0" y="0" width="847" height="623" frameX="-7" frameY="-314" frameWidth="875" frameHeight="963"/>
+</TextureAtlas>
